@@ -2,7 +2,7 @@
 
 [Video](https://youtu.be/3pN0W4KzzNY) 🎥
 
-Repo : [SongProBot 🎻](https://GitHub.Com/TamilBots/SongPlayRoBot)
+Repo : [SongProBot 🎻](https://https://github.com/Abhikashyahek6372/SongPlayRoBot)
 
 Bot : [Song Pro Bot 🧚‍](https://t.me/SongProBot)
 
